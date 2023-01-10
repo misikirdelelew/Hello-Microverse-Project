@@ -133,9 +133,9 @@ You can deploy this project using:
 
 👤 **Misikir Delelew**
 
-- GitHub: [@sheldonwafula](https://github.com/MishMD)
-- Twitter: [@sheldonwafula](https://twitter.com/misikir-delelew)
-- LinkedIn: [@sheldonwafula](https://linkedin.com/in/misikir-delelew-114a5946)
+- GitHub: [@misikirdelelw](https://github.com/MishMD)
+- Twitter: [@misikirdelelw](https://twitter.com/misikir-delelew)
+- LinkedIn: [@misikirdelelew](https://linkedin.com/in/misikir-delelew-114a5946)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
